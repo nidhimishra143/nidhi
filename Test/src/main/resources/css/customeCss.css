@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+body {
+	
+	background-color:#FFFFFF;
+}
+
+.labelMargin {
+	margin-right: 17px;
+}
+.container1
+{
+	width: 1380px;
+	
+}
+table
+{
+margin-left: 40px;"
+}
+.margintop
+{
+	margin-top: -22px;
+	
+}
+.buttonrow
+{
+	margin-left: 45px;
+}
+
+.marginFotter
+{
+	
+margin-top: 100px;
+	
+}
+
+.rightMargin
+{
+	float: right;
+}
+
+
